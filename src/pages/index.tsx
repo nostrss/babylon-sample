@@ -1,9 +1,4 @@
-import {
-  FreeCamera,
-  HemisphericLight,
-  MeshBuilder,
-  Vector3,
-} from '@babylonjs/core';
+import { Vector3 } from '@babylonjs/core';
 import SceneComponent from '@/components/SceneComponents';
 import { useState } from 'react';
 import styled from '@emotion/styled';
